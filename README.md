@@ -13,6 +13,7 @@ see [Dropbox for Python SDK](https://dropbox-sdk-python.readthedocs.io/en/latest
 ----
 ## 使用方式
 **1. 需要先建立一個Dropbox TOKEN，可以到 [這裡](https://www.dropbox.com/developers/apps) 來建立一組TOKEN**
+
 **2. 需要預先安裝for Python的Dropbox套件**
 
 >註 : 詳細安裝方式可以參考[官網](https://www.dropbox.com/developers/documentation/python#install)
